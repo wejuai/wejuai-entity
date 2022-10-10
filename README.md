@@ -1,4 +1,4 @@
-# wejuai 为聚爱
+# wejuai-entity
 跨模块使用的数据实体
 
 ### 结构
